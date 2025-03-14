@@ -14,6 +14,6 @@
 
 ## GitHub Stats
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=your-username&hide=prs&count_private=true&show_icons=true)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=boothe0&hide=prs&count_private=true&show_icons=true)
 
 ![Your Custom Image](https://your-image-url.com/image.png)
