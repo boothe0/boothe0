@@ -17,6 +17,6 @@
 #
 
 
-### 📊 GitHub Stats
+### 📝 GitHub Stats
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=boothe0&hide=prs&count_private=true&show_icons=true&hide_rank=true&theme=radical)
 
