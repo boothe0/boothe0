@@ -1,4 +1,4 @@
-## Welcome I am Elizabeth Booth 🦭
+## Welcome! I am Elizabeth Booth 🦭
 
 **`Student at Northern Arizona University studying software engineering (Sophomore)`**
 
