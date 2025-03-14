@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-![FlagstaffWinter](https://www.dropbox.com/scl/fi/hxtq3mai1pcpc3a5ag998/IMG_3392.jpg?rlkey=43nmu2je518tu52s5el0x8u08&st=g1luzkt9&dl=0)
-
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB3anNhNWh0MzJ5MzdwZTJpbXNrNmNjZWUyMm1oNWtiMTVnNzM2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 <!--
 **boothe0/boothe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
