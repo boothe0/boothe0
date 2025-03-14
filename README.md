@@ -16,5 +16,4 @@
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=boothe0&hide=prs&count_private=true&show_icons=true)
 
-![Your Custom Image](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-)
+![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)
