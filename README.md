@@ -1,6 +1,6 @@
 ## Welcome! I am Elizabeth Booth 🦭
 
-**`Student at Northern Arizona University studying software engineering (Sophomore)`**
+**`Student studying software engineering`**
 
 ![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB3anNhNWh0MzJ5MzdwZTJpbXNrNmNjZWUyMm1oNWtiMTVnNzM2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 ---
