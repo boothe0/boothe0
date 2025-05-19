@@ -1,4 +1,4 @@
-## Welcome! I am Elizabeth Booth 🗻
+## 🗻 Welcome! I am Elizabeth Booth 
 
 **`Student studying software engineering`**
 
