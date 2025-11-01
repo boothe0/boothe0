@@ -8,7 +8,6 @@
 <img align="left" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 <img align="left" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<i class="devicon-flask-original-wordmark"></i>
 <img align="left" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
